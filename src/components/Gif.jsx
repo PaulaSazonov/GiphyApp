@@ -14,7 +14,7 @@ export default class Gif extends Component {
 
 const GifWrapper = styled.div`
     padding: 2rem;
-    background-color: #d3d3d3;
+    background-color: #fff;
     border-radius: 15px;
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
     display: flex:

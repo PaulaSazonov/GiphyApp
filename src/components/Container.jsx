@@ -30,6 +30,7 @@ class Container extends Component {
 }
 
 const GifGrid = styled.div`
+    background-color: #f4f2f2;
     padding: 8rem 5rem;
     display: grid;
     grid-template-columns: repeat( 4, 1fr);
